@@ -1,7 +1,5 @@
 # Smart Drone Navigation: People Avoidance Algorithm with YOLO & MiDaS
 
-[![Drone People Avoidance Demo](http://img.youtube.com/vi/LktCZMAJIaI/0.jpg)](https://youtu.be/LktCZMAJIaI?si=TmuFmULtceWwwfze)
-
 Implementation of an intelligent people avoidance algorithm designed for drones. The algorithm leverages computer vision techniques to enable drones to navigate through crowded spaces while avoiding collisions with people.
 
 1. Object Detection with YOLOv8:
@@ -19,5 +17,10 @@ The drone triggers a flight course change if the person doesn't move away after 
 5. ROS Integration:
 The system is powered by the Robot Operating System (ROS), ensuring communication and coordination between different components.
 
+6. **Optitrack for Positioning:**
+   Optitrack is employed to precisely position the drone within the arena, enhancing overall navigation accuracy.
+
+# Watch Demo
+[![Drone People Avoidance Demo](http://img.youtube.com/vi/LktCZMAJIaI/0.jpg)](https://youtu.be/LktCZMAJIaI?si=TmuFmULtceWwwfze)
 https://www.youtube.com/watch?v=LktCZMAJIaI
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LktCZMAJIaI?si=1DD4wWk7UoOdaNSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
