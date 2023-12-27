@@ -1,6 +1,9 @@
 # Smart Drone Navigation: People Avoidance Algorithm with YOLO & MiDaS
 
-<h1 align="center">![demo](https://github.com/eddyev00/drone-people-avoidance/assets/155014106/19eb9f16-0f59-4325-89be-e2eff1bef17a)</h1>
+<p align="center">
+    <img width="500" src="https://github.com/eddyev00/drone-people-avoidance/assets/155014106/19eb9f16-0f59-4325-89be-e2eff1bef17a" alt="Material Bread logo">
+</p>
+
 
 
 
@@ -25,5 +28,6 @@ The system is powered by the Robot Operating System (ROS), ensuring communicatio
    Optitrack is employed to precisely position the drone within the arena, enhancing overall navigation accuracy.
 
 # Watch Demo
+
 [![Drone People Avoidance Demo](http://img.youtube.com/vi/LktCZMAJIaI/0.jpg)](https://youtu.be/LktCZMAJIaI?si=TmuFmULtceWwwfze)
 
