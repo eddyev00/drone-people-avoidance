@@ -1,7 +1,7 @@
 # Smart Drone Navigation: People Avoidance Algorithm with YOLO & MiDaS
 
-<h1 align="center">Material Bread</h1>
-![demo](https://github.com/eddyev00/drone-people-avoidance/assets/155014106/19eb9f16-0f59-4325-89be-e2eff1bef17a)
+<h1 align="center">![demo](https://github.com/eddyev00/drone-people-avoidance/assets/155014106/19eb9f16-0f59-4325-89be-e2eff1bef17a)</h1>
+
 
 
 Implementation of an intelligent people avoidance algorithm designed for drones. The algorithm leverages computer vision techniques to enable drones to navigate through crowded spaces while avoiding collisions with people.
