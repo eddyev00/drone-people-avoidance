@@ -25,7 +25,4 @@ The system is powered by the Robot Operating System (ROS), ensuring communicatio
 
 # Watch Demo
 [![Drone People Avoidance Demo](http://img.youtube.com/vi/LktCZMAJIaI/0.jpg)](https://youtu.be/LktCZMAJIaI?si=TmuFmULtceWwwfze)
-https://www.youtube.com/watch?v=LktCZMAJIaI
-
-
 
