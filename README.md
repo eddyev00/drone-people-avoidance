@@ -16,8 +16,6 @@ The drone triggers a flight course change if the person doesn't move away after 
 5. ROS Integration:
 The system is powered by the Robot Operating System (ROS), ensuring communication and coordination between different components.
 
-
-https://youtu.be/LktCZMAJIaI
 ## Watch the Demo
 
-[![Drone People Avoidance Demo](http://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+[![Drone People Avoidance Demo](http://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/LktCZMAJIaI?si=TmuFmULtceWwwfze)
