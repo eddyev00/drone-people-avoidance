@@ -1,1 +1,0 @@
-/home/eddye/yolobot/devel/.private/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake

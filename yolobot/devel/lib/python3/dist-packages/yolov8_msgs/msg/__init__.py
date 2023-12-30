@@ -1,1 +1,0 @@
-/home/eddye/yolobot/devel/.private/yolov8_msgs/lib/python3/dist-packages/yolov8_msgs/msg/__init__.py
