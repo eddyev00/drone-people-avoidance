@@ -1,0 +1,1 @@
+/home/eddye/yolobot/devel/.private/yolobot_recognition/lib/pkgconfig/yolobot_recognition.pc

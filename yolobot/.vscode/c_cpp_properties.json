@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/eddye/yolobot/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/eddye/drone_ws/devel/include/**",
+        "/home/eddye/drone_ws/src/iq_gnc/include/**",
+        "/home/eddye/drone_ws/src/mavros/libmavconn/include/**",
+        "/home/eddye/drone_ws/src/mavros/mavros/include/**",
+        "/home/eddye/drone_ws/src/mavros/mavros_msgs/include/**",
+        "/home/eddye/drone_ws/src/mavros/test_mavros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

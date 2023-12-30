@@ -1,0 +1,6 @@
+devel_space: /home/eddye/yolobot/devel
+install: false
+install_space: /home/eddye/yolobot/install
+profile: default
+source_space: /home/eddye/yolobot/src
+workspace: /home/eddye/yolobot

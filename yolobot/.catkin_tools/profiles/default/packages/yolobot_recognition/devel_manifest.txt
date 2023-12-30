@@ -1,0 +1,5 @@
+yolobot_recognition
+/home/eddye/yolobot/devel/.private/yolobot_recognition/cmake.lock /home/eddye/yolobot/devel/./cmake.lock
+/home/eddye/yolobot/devel/.private/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake /home/eddye/yolobot/devel/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake
+/home/eddye/yolobot/devel/.private/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig.cmake /home/eddye/yolobot/devel/share/yolobot_recognition/cmake/yolobot_recognitionConfig.cmake
+/home/eddye/yolobot/devel/.private/yolobot_recognition/lib/pkgconfig/yolobot_recognition.pc /home/eddye/yolobot/devel/lib/pkgconfig/yolobot_recognition.pc

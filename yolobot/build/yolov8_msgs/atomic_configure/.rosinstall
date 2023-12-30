@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eddye/yolobot/devel/.private/yolov8_msgs/setup.sh

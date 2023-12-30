@@ -1,0 +1,2 @@
+set(yolov8_msgs_MESSAGE_FILES "/home/eddye/yolobot/src/yolov8_msgs/msg/InferenceResult.msg;/home/eddye/yolobot/src/yolov8_msgs/msg/Yolov8Inference.msg;/home/eddye/yolobot/src/yolov8_msgs/msg/DepthResult.msg;/home/eddye/yolobot/src/yolov8_msgs/msg/PlotCoordinates.msg;/home/eddye/yolobot/src/yolov8_msgs/msg/ConfidenceScore.msg;/home/eddye/yolobot/src/yolov8_msgs/msg/CustomMsg.msg")
+set(yolov8_msgs_SERVICE_FILES "")

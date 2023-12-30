@@ -1,0 +1,12 @@
+Symlinking /home/eddye/yolobot/devel/./cmake.lock
+Symlinking /home/eddye/yolobot/devel/./setup.zsh
+Symlinking /home/eddye/yolobot/devel/./_setup_util.py
+Symlinking /home/eddye/yolobot/devel/./env.sh
+Symlinking /home/eddye/yolobot/devel/./local_setup.zsh
+Symlinking /home/eddye/yolobot/devel/./local_setup.bash
+Symlinking /home/eddye/yolobot/devel/./setup.bash
+Symlinking /home/eddye/yolobot/devel/./local_setup.sh
+Symlinking /home/eddye/yolobot/devel/./setup.sh
+Symlinking /home/eddye/yolobot/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/eddye/yolobot/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/eddye/yolobot/devel/lib/pkgconfig/catkin_tools_prebuild.pc

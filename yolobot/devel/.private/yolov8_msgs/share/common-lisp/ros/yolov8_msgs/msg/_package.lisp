@@ -1,0 +1,17 @@
+(cl:defpackage yolov8_msgs-msg
+  (:use )
+  (:export
+   "<CONFIDENCESCORE>"
+   "CONFIDENCESCORE"
+   "<CUSTOMMSG>"
+   "CUSTOMMSG"
+   "<DEPTHRESULT>"
+   "DEPTHRESULT"
+   "<INFERENCERESULT>"
+   "INFERENCERESULT"
+   "<PLOTCOORDINATES>"
+   "PLOTCOORDINATES"
+   "<YOLOV8INFERENCE>"
+   "YOLOV8INFERENCE"
+  ))
+

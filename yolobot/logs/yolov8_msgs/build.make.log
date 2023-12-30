@@ -1,0 +1,54 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target _yolov8_msgs_generate_messages_check_deps_DepthResult
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _yolov8_msgs_generate_messages_check_deps_InferenceResult
+[  0%] Built target _yolov8_msgs_generate_messages_check_deps_CustomMsg
+[  0%] Built target _yolov8_msgs_generate_messages_check_deps_ConfidenceScore
+[  0%] Built target _yolov8_msgs_generate_messages_check_deps_Yolov8Inference
+[  0%] Built target _yolov8_msgs_generate_messages_check_deps_PlotCoordinates
+[ 12%] [34m[1mGenerating C++ code from yolov8_msgs/InferenceResult.msg[0m
+[ 12%] [34m[1mGenerating Lisp code from yolov8_msgs/InferenceResult.msg[0m
+[  9%] [34m[1mGenerating C++ code from yolov8_msgs/Yolov8Inference.msg[0m
+[ 18%] [34m[1mGenerating Lisp code from yolov8_msgs/Yolov8Inference.msg[0m
+[ 18%] [34m[1mGenerating Python from MSG yolov8_msgs/InferenceResult[0m
+[ 25%] [34m[1mGenerating Python from MSG yolov8_msgs/Yolov8Inference[0m
+[ 25%] [34m[1mGenerating EusLisp code from yolov8_msgs/Yolov8Inference.msg[0m
+[ 28%] [34m[1mGenerating EusLisp code from yolov8_msgs/InferenceResult.msg[0m
+[ 12%] [34m[1mGenerating Javascript code from yolov8_msgs/InferenceResult.msg[0m
+[ 31%] [34m[1mGenerating Python from MSG yolov8_msgs/DepthResult[0m
+[ 34%] [34m[1mGenerating Javascript code from yolov8_msgs/Yolov8Inference.msg[0m
+[ 37%] [34m[1mGenerating C++ code from yolov8_msgs/DepthResult.msg[0m
+[ 40%] [34m[1mGenerating C++ code from yolov8_msgs/PlotCoordinates.msg[0m
+[ 43%] [34m[1mGenerating Lisp code from yolov8_msgs/DepthResult.msg[0m
+[ 46%] [34m[1mGenerating C++ code from yolov8_msgs/ConfidenceScore.msg[0m
+[ 50%] [34m[1mGenerating Javascript code from yolov8_msgs/DepthResult.msg[0m
+[ 53%] [34m[1mGenerating Javascript code from yolov8_msgs/PlotCoordinates.msg[0m
+[ 56%] [34m[1mGenerating EusLisp code from yolov8_msgs/DepthResult.msg[0m
+[ 59%] [34m[1mGenerating Lisp code from yolov8_msgs/PlotCoordinates.msg[0m
+[ 62%] [34m[1mGenerating EusLisp code from yolov8_msgs/PlotCoordinates.msg[0m
+[ 65%] [34m[1mGenerating Python from MSG yolov8_msgs/PlotCoordinates[0m
+[ 68%] [34m[1mGenerating EusLisp code from yolov8_msgs/ConfidenceScore.msg[0m
+[ 75%] [34m[1mGenerating C++ code from yolov8_msgs/CustomMsg.msg[0m
+[ 75%] [34m[1mGenerating EusLisp code from yolov8_msgs/CustomMsg.msg[0m
+[ 78%] [34m[1mGenerating EusLisp manifest code for yolov8_msgs[0m
+[ 81%] [34m[1mGenerating Lisp code from yolov8_msgs/ConfidenceScore.msg[0m
+[ 84%] [34m[1mGenerating Javascript code from yolov8_msgs/CustomMsg.msg[0m
+[ 87%] [34m[1mGenerating Python from MSG yolov8_msgs/ConfidenceScore[0m
+[ 90%] [34m[1mGenerating Javascript code from yolov8_msgs/ConfidenceScore.msg[0m
+[ 93%] [34m[1mGenerating Python from MSG yolov8_msgs/CustomMsg[0m
+[ 96%] [34m[1mGenerating Lisp code from yolov8_msgs/CustomMsg.msg[0m
+[ 96%] Built target yolov8_msgs_generate_messages_lisp
+[ 96%] Built target yolov8_msgs_generate_messages_nodejs
+[ 96%] Built target yolov8_msgs_generate_messages_cpp
+[100%] [34m[1mGenerating Python msg __init__.py for yolov8_msgs[0m
+[100%] Built target yolov8_msgs_generate_messages_py
+[100%] Built target yolov8_msgs_generate_messages_eus
+[100%] Built target yolov8_msgs_generate_messages

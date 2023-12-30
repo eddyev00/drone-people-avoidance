@@ -1,0 +1,8 @@
+prefix=/home/eddye/yolobot/install
+
+Name: yolov8_msgs
+Description: Description of yolov8_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs rospy
