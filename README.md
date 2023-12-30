@@ -7,7 +7,7 @@
 
 
 
-Implementation of an intelligent people avoidance algorithm designed for drones. The algorithm leverages computer vision techniques to enable drones to navigate through crowded spaces while avoiding collisions with people.
+Implementation of an intelligent people avoidance algorithm designed for drones (specifically DJI Tello). The algorithm leverages computer vision techniques to enable drones to navigate through crowded spaces while avoiding collisions with people.
 
 1. **Object Detection with YOLOv8**:
 The drone identifies the person's location and bounding box using YOLOv8.
