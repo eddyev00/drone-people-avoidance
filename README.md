@@ -22,7 +22,7 @@ A filtered median value from depth pixels determines when the drone should come 
 The drone triggers a flight course change if the person doesn't move away after a predefined time, ensuring safety.
 
 5. **ROS Integration**:
-The system is powered by the Robot Operating System (ROS), ensuring communication and coordination between different components.
+The system is powered by the Robot Operating System (ROS), ensuring communication and coordination between different components. ROS Noetic was used for this application.
 
 6. **Optitrack for Positioning:**
    Optitrack is employed to precisely position the drone within the arena, enhancing overall navigation accuracy.
